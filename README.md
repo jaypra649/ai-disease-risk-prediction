@@ -1,4 +1,3 @@
-# ai-disease-risk-prediction
 # AI-Based Diabetes Classification System
 
 An AI-based healthcare project that uses machine learning to classify diabetes status from health-related data, with a planned Java Spring Boot backend integration.
